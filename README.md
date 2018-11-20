@@ -21,6 +21,8 @@
 1. Install plugins\
 ```npm install node-sass gulp-sass gulp-autoprefixer gulp-sourcemaps gulp-imagemin --save-dev```
 
+1. Create your markup files (HTML) in ```dist\``` directory
+
 ### How to run
 1. Run ```gulp``` to start watching CSS & JS
 1. Run ```gulp image``` to optimize images
