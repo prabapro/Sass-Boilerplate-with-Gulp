@@ -37,6 +37,7 @@
 │   │   ├── app.min.css
 │   │   └── app.min.css.map
 │   ├── images
+│   ├── index.html
 │   └── js
 │       └── script.js
 ├── gulpfile.js
@@ -75,4 +76,5 @@
         ├── 8-vendors-extensions
         │   └── _addons.scss
         └── app.scss
+
   ```
