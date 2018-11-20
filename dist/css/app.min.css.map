@@ -1,0 +1,1 @@
+{"version":3,"sources":["base/_base.scss","utils/_variables.scss"],"names":[],"mappings":"AAAA,KACE,iBCDW,CDEZ","file":"app.min.css","sourcesContent":["body{\n  background: $main;\n}\n","$main: indigo;\n"]}
