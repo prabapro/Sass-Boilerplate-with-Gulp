@@ -15,9 +15,6 @@
 1. Install Gulp locally to the project directory\
 ```npm install gulp -D```
 
-1. Create ```gulpfile.js```
-```touch gulpfile.js```
-
 1. Install plugins\
 ```npm install node-sass gulp-sass gulp-autoprefixer gulp-sourcemaps gulp-imagemin --save-dev```
 
