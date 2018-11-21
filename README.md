@@ -28,7 +28,6 @@
 #### Tree
 
 ```
-├── README.md
 ├── dist
 │   ├── css
 │   │   ├── app.min.css
@@ -42,36 +41,27 @@
     ├── js
     │   └── script.js
     └── scss
-        ├── 1-utils
-        │   ├── _functions.scss
-        │   ├── _mixins.scss
-        │   └── _variables.scss
-        ├── 2-vendors
-        │   ├── _bootstrap.scss
-        │   ├── _jquery-ui.scss
-        │   └── _reset.scss
-        ├── 3-base
-        │   ├── _base.scss
-        │   └── _typography.scss
-        ├── 4-layout
-        │   ├── _footer.scss
-        │   ├── _forms.scss
-        │   ├── _grid.scss
-        │   ├── _header.scss
-        │   ├── _navigation.scss
-        │   └── _sidebar.scss
-        ├── 5-components
-        │   ├── _buttons.scss
-        │   ├── _carousel.scss
-        │   ├── _cover.scss
-        │   └── _dropdown.scss
-        ├── 6-pages
-        │   ├── _contact.scss
-        │   └── _home.scss
-        ├── 7-themes
-        │   └── _default.scss
-        ├── 8-vendors-extensions
-        │   └── _addons.scss
+        ├── _base_main.scss
+        ├── _base_typography.scss
+        ├── _components_buttons.scss
+        ├── _components_carousel.scss
+        ├── _components_cover.scss
+        ├── _components_dropdown.scss
+        ├── _layout_footer.scss
+        ├── _layout_forms.scss
+        ├── _layout_grid.scss
+        ├── _layout_header.scss
+        ├── _layout_navigation.scss
+        ├── _layout_sidebar.scss
+        ├── _pages_contact.scss
+        ├── _pages_home.scss
+        ├── _themes_main.scss
+        ├── _utils_functions.scss
+        ├── _utils_mixins.scss
+        ├── _utils_variables.scss
+        ├── _vendors_bootstrap.scss
+        ├── _vendors_extensions_main.scss
+        ├── _vendors_jquery_ui.scss
+        ├── _vendors_reset.scss
         └── app.scss
-
   ```
