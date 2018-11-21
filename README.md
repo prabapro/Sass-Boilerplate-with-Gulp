@@ -2,7 +2,7 @@
 
 ### Included Gulp Tasks
 * Compile .scss & .js
-* Compress as min.css
+* Compress as *.min.css & *.min.js
 * Image optimization
 
 ### Getting started
