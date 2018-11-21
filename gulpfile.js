@@ -5,6 +5,7 @@ var sass = require('gulp-sass');
 var autoprefixer = require('gulp-autoprefixer');
 var sourcemaps = require('gulp-sourcemaps');
 var imagemin = require('gulp-imagemin');
+var uglify = require('gulp-uglify');
 
 // Style Functions
 var styleSRC = 'src/scss/app.scss';
@@ -39,6 +40,11 @@ gulp.task('style', function() {
 // JS Tasks
 gulp.task('js', function() {
   gulp.src(jsSRC)
+    .pipe(uglify())
+    .pipe(rename({
+      suffix: '.min'
+    }))
+    .pipe(sourcemaps.write('./'))
     .pipe(gulp.dest(jsDIST));
 });
 
