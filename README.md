@@ -62,6 +62,5 @@
     └── app.scss
 ```
 
-Sample Photo by [Sarah Dorweiler](https://unsplash.com/photos/Sy8dsVyiPgs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash
-
-Thanks Sarah ♥️
+**Sample image at** ```/dist/images/```:\
+Photo by [Sarah Dorweiler](https://unsplash.com/photos/Sy8dsVyiPgs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash - Thanks Sarah ♥️
