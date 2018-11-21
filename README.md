@@ -33,7 +33,7 @@
 │   │   ├── app.min.css
 │   │   └── app.min.css.map
 │   ├── images
-│   │   └── sarah-dorweiler-357717-unsplash.jpg
+│   │   └── sarah-dorweiler-357717-unsplash.jpg Photo by [Sarah Dorweiler](https://unsplash.com/photos/Sy8dsVyiPgs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash
 │   ├── index.html
 │   └── js
 │       └── script.min.js
@@ -61,5 +61,3 @@
     ├── _vendors_reset.scss
     └── app.scss
 ```
-
-**Photo by [Sarah Dorweiler](https://unsplash.com/photos/Sy8dsVyiPgs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash**
