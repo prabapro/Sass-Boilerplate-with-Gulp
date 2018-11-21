@@ -62,5 +62,4 @@
     └── app.scss
 ```
 
-**Photo by [Sarah Dorweiler] on Unsplash**
-[link text itself]: https://unsplash.com/photos/Sy8dsVyiPgs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
+**Photo by [Sarah Dorweiler](https://unsplash.com/photos/Sy8dsVyiPgs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash**
