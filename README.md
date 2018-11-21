@@ -35,7 +35,7 @@
 │   ├── images
 │   ├── index.html
 │   └── js
-│       └── script.js
+│       └── script.min.js
 ├── gulpfile.js
 └── src
     ├── js
