@@ -63,4 +63,4 @@
 ```
 
 **Photo by [Sarah Dorweiler] on Unsplash**
-[Sarah Dorweiler]: https://unsplash.com/photos/Sy8dsVyiPgs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
+[link text itself]: https://unsplash.com/photos/Sy8dsVyiPgs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
