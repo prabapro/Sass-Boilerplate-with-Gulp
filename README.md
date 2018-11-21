@@ -37,31 +37,26 @@
 │   └── js
 │       └── script.min.js
 ├── gulpfile.js
-└── src
-    ├── js
-    │   └── script.js
-    └── scss
-        ├── _base_main.scss
-        ├── _base_typography.scss
-        ├── _components_buttons.scss
-        ├── _components_carousel.scss
-        ├── _components_cover.scss
-        ├── _components_dropdown.scss
-        ├── _layout_footer.scss
-        ├── _layout_forms.scss
-        ├── _layout_grid.scss
-        ├── _layout_header.scss
-        ├── _layout_navigation.scss
-        ├── _layout_sidebar.scss
-        ├── _pages_contact.scss
-        ├── _pages_home.scss
-        ├── _themes_main.scss
-        ├── _utils_functions.scss
-        ├── _utils_mixins.scss
-        ├── _utils_variables.scss
-        ├── _vendors_bootstrap.scss
-        ├── _vendors_extensions_main.scss
-        ├── _vendors_jquery_ui.scss
-        ├── _vendors_reset.scss
-        └── app.scss
-  ```
+├── js
+│   └── script.js
+└── scss
+    ├── _0_functions.scss
+    ├── _0_mixins.scss
+    ├── _0_variables.scss
+    ├── _1_main.scss
+    ├── _1_responsive.scss
+    ├── _1_typography.scss
+    ├── _2_layout_footer.scss
+    ├── _2_layout_forms.scss
+    ├── _2_layout_grid.scss
+    ├── _2_layout_header.scss
+    ├── _2_layout_navigation.scss
+    ├── _2_layout_sidebar.scss
+    ├── _3_components.scss
+    ├── _4_pages_contact.scss
+    ├── _4_pages_home.scss
+    ├── _vendors_bootstrap.scss
+    ├── _vendors_jquery.scss
+    ├── _vendors_reset.scss
+    └── app.scss
+```

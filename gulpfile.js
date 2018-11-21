@@ -8,14 +8,14 @@ var imagemin = require('gulp-imagemin');
 var uglify = require('gulp-uglify');
 
 // Style Functions
-var styleSRC = 'src/scss/app.scss';
+var styleSRC = 'scss/app.scss';
 var styleDIST = './dist/css/';
-var styleWatch = 'src/scss/**/*.scss';
+var styleWatch = 'scss/**/*.scss';
 
 // JS Functions
-var jsSRC = 'src/js/script.js';
+var jsSRC = 'js/script.js';
 var jsDIST = './dist/js/';
-var jsWatch = 'src/js/**/*.js';
+var jsWatch = 'js/**/*.js';
 
 // Style Tasks
 gulp.task('style', function() {
