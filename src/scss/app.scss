@@ -2,46 +2,46 @@
 
 // 1. Configuration and helpers (Utilities)
 @import
-  '1-utils/variables',
-  '1-utils/functions',
-  '1-utils/mixins';
+  '_utils_variables',
+  '_utils_functions',
+  '_utils_mixins';
 
 // 2. Vendors
 @import
-  '2-vendors/reset',
-  '2-vendors/jquery-ui',
-  '2-vendors/bootstrap';
+  '_vendors_reset',
+  '_vendors_jquery_ui',
+  '_vendors_bootstrap';
 
 // 3. Base stuff
 @import
-  '3-base/base',
-  '3-base/typography';
+  '_base_main',
+  '_base_typography';
 
 // 4. Layout-related sections
 @import
-  '4-layout/header',
-  '4-layout/grid',
-  '4-layout/sidebar',
-  '4-layout/navigation',
-  '4-layout/forms',
-  '4-layout/footer';
+  '_layout_header',
+  '_layout_grid',
+  '_layout_sidebar',
+  '_layout_navigation',
+  '_layout_forms',
+  '_layout_footer';
 
 // 5. Components
 @import
-  '5-components/buttons',
-  '5-components/cover',
-  '5-components/carousel',
-  '5-components/dropdown';
+  '_components_buttons',
+  '_components_cover',
+  '_components_carousel',
+  '_components_dropdown';
 
 // 6. Page-specific styles
 @import
-  '6-pages/home',
-  '6-pages/contact';
+  '_pages_home',
+  '_pages_contact';
 
 // 7. Themes
 @import
-  '7-themes/default';
+  '_themes_main';
 
 // 8. Vendor Extensions (Addons to vendor's files)
 @import
-  '8-vendors-extensions/addons'
+  '_vendors_extensions_main';
