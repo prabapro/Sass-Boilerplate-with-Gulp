@@ -63,4 +63,4 @@
 ```
 
 **Sample image at** ```/dist/images/```:\
-Photo by [Sarah Dorweiler](https://unsplash.com/photos/Sy8dsVyiPgs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash - Thanks Sarah ♥️
+Photo by [Sarah Dorweiler](https://unsplash.com/photos/Sy8dsVyiPgs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText "(target|_blank)") on Unsplash - Thanks Sarah ♥️
