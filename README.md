@@ -36,9 +36,11 @@
 │   │   └── sarah-dorweiler-357717-unsplash.jpg
 │   ├── index.html
 │   └── js
+│       ├── jquery.min.js
 │       └── script.min.js
 ├── gulpfile.js
 ├── js
+│   ├── jquery.js
 │   └── script.js
 └── scss
     ├── _0_functions.scss
