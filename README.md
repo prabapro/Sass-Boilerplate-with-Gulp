@@ -47,7 +47,6 @@
     ├── _0_mixins.scss
     ├── _0_variables.scss
     ├── _1_main.scss
-    ├── _1_responsive.scss
     ├── _1_typography.scss
     ├── _2_layout_footer.scss
     ├── _2_layout_forms.scss
@@ -58,6 +57,7 @@
     ├── _3_components.scss
     ├── _4_pages_contact.scss
     ├── _4_pages_home.scss
+    ├── _5_responsive.scss
     ├── _vendors_bootstrap.scss
     ├── _vendors_jquery.scss
     ├── _vendors_reset.scss
