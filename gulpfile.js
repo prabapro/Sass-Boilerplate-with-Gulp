@@ -5,7 +5,7 @@ var sass = require('gulp-sass');
 var autoprefixer = require('gulp-autoprefixer');
 var sourcemaps = require('gulp-sourcemaps');
 var imagemin = require('gulp-imagemin');
-var uglify = require('gulp-uglifyes');
+var uglify = require('gulp-terser');
 
 // Style Functions
 var styleSRC = 'scss/*.scss';
