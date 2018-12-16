@@ -18,7 +18,7 @@ var jsDIST = './dist/js/';
 var jsWatch = 'js/**/*.js';
 
 // Style Tasks
-gulp.task('style', function() {
+gulp.task('style', function () {
   gulp.src(styleSRC)
     .pipe(sourcemaps.init())
     .pipe(sass({
@@ -38,7 +38,7 @@ gulp.task('style', function() {
 });
 
 // JS Tasks
-gulp.task('js', function() {
+gulp.task('js', function () {
   gulp.src(jsSRC)
     .pipe(uglify())
     .pipe(rename({
@@ -50,16 +50,16 @@ gulp.task('js', function() {
 
 //Image Optimization Task
 gulp.task('image', () =>
-    gulp.src('./dist/images/*')
-        .pipe(imagemin())
-        .pipe(gulp.dest('./dist/images'))
+  gulp.src('./dist/images/*')
+  .pipe(imagemin())
+  .pipe(gulp.dest('./dist/images'))
 );
 
 // Combining Tasks & make default
 gulp.task('run', ['style', 'js']);
 
 // Watch Functions
-gulp.task('watch', function() {
+gulp.task('watch', function () {
   gulp.watch(styleWatch, ['style']);
   gulp.watch(jsWatch, ['js']);
 })
