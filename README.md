@@ -16,7 +16,7 @@
 ```npm install gulp -D```
 
 1. Install plugins\
-```npm install node-sass gulp-sass gulp-autoprefixer gulp-sourcemaps gulp-imagemin gulp—rename gulp-terser --save-dev```
+```npm install node-sass gulp-sass gulp-autoprefixer gulp-sourcemaps gulp-imagemin gulp-rename gulp-terser --save-dev```
 
 1. Create your markup files (HTML) in ```dist\``` directory
 
