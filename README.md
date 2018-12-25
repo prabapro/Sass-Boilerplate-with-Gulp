@@ -13,7 +13,7 @@
 ```npm init```
 
 1. Install Gulp locally to the project directory\
-```npm install gulp -D```
+```npm install gulp@3.9.1 -D```
 
 1. Install plugins\
 ```npm install node-sass gulp-sass gulp-autoprefixer gulp-sourcemaps gulp-imagemin gulp-rename gulp-terser --save-dev```
